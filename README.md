@@ -18,17 +18,7 @@ Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabil
 
 ---
 
-### Proyecto 2: Dibujo Estructural de Alta Precisión
-Desarrollo y optimización de planos estructurales complejos para obras civiles y edificación.
-
-*(Corta este texto y arrastra tu plano estructural aquí)*
-
-* **Herramientas:** AutoCAD / Revit / ETABS.
-* **Métricas Clave:** Modelado al detalle de elementos estructurales (zapatas, losas de entrepiso y cubiertas) garantizando un 98% de precisión técnica libre de colisiones.
-
----
-
 ## 📬 Contacto / Connect with me
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/diego-tellez-69a87329a/)
+* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/diegotellezftth/)
 * **Email:** diego.tellez7@gmail.com
 * **Ubicación:** Ibagué, Tolima, Colombia (Disponible para trabajo remoto / mercado internacional)
