@@ -2,7 +2,7 @@
 
 Soy Tecnólogo en Dibujo Arquitectónico y de Ingeniería, con enfoque profesional en la planificación, diseño y despliegue de infraestructura de fibra óptica y redes de planta externa (OSP)
 
-### Proyecto 1: Ingeniería de Detalle y Ciclo de Diseño FTTH / OSP
+### Proyecto 1: FTTH Network Design - Del Diseño Preliminar (PD) a Planos de Construcción (CD)
 Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabilidad y maquetación de permisos hasta la entrega de planos finales listos para construcción.
 
 #### 🛰️ Fase 1: Preliminary Design (PD) & Permit Set (Mapeo de Utilidades Existentes)
