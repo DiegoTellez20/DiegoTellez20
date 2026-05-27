@@ -1,20 +1,19 @@
-# Diego Téllez | Telecom Network Designer & GIS/CAD Specialist
+# Diego Téllez | Telecom Network Designer & GIS/CAD Professional
 
-¡Bienvenido a mi portafolio técnico en GitHub! Soy Tecnólogo en Dibujo Arquitectónico y de Ingeniería, especializado en la planificación, diseño y despliegue de infraestructura de fibra óptica y redes de planta externa (OSP).
+Soy Tecnólogo en Dibujo Arquitectónico y de Ingeniería, con enfoque profesional en la planificación, diseño y despliegue de infraestructura de fibra óptica y redes de planta externa (OSP)
 
 ## 🚀 Perfil Profesional / Professional Summary
-* **Diseño FTTH / OSP:** Experiencia sólida en el diseño de bajo nivel (LLD), enrutamiento óptico y optimización de materiales.
-* **Entornos Técnicos:** Dominio avanzado y avanzado modelado en ArcGIS Pro, AutoCAD (2D/3D), Revit y ETABS.
+* **Diseño FTTH / OSP: Experiencia sólida en Low Level Design (LLD), enrutamiento óptico y desarrollo de planos de construcción (CD Sets) bajo normativas internacionales.
+* **Entornos Técnicos:** Dominio avanzado en ArcGIS Pro, AutoCAD (2D/3D), Revit y ETABS.
 * **Garantía de Calidad:** Historial comprobable con tasas del 95% de aprobación en primeras entregas de planos listos para construcción.
 
 ---
 
-## 📁 Proyectos Destacados / Featured Projects
+### Proyecto 1: Low Level Design (LLD) - Construction Drawings (CD Set)
+Diseño y estructuración de planos listos para construcción en arquitecturas de fibra óptica subterránea y aérea.
 
-### Proyecto 1: Low Level Design (LLD) - Planta Externa (OSP)
-Diseño mensual de alto volumen para arquitecturas de fibra óptica subterránea y aérea.
+<img width="4382" height="3234" alt="Schaumburg 1 05-B CD 041426_pages-to-jpg-0027" src="https://github.com/user-attachments/assets/181bf53d-600a-43bc-9b67-abab77139dc2" />
 
-*(Corta este texto y arrastra tu plano editado de Paint aquí)*
 
 * **Herramientas:** AutoCAD / ArcGIS Pro.
 * **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies de LLD mensuales con un estricto cumplimiento normativo de infraestructuras en vías públicas.
