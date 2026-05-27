@@ -11,7 +11,7 @@ Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabil
 
 #### 🏗️ Fase 2: Final Construction Drawings (CD Set / Planos de Construcción)
 * **Descripción:** Planos de ingeniería de detalle con la configuración definitiva del despliegue de planta externa (OSP) lista para construcción. Integra la configuración final del enrutamiento óptico, diagramas de topología, especificaciones de holguras (Slack) y la distribución exacta de splitters (1x8).
-* **Imagen:** *<img width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/95825063-ba1a-4386-8410-323d3fe7e673" />*
+* **Imagen:** *<img width="4382" height="3234" alt="ej 2" src="https://github.com/user-attachments/assets/082fbef4-89b7-45c6-ac92-816f92a2633b" />*
 
 * **Herramientas:** ArcGIS Pro.
 * **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies mensuales con un estricto cumplimiento de normativas internacionales de infraestructura OSP.
