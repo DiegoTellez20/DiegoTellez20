@@ -2,21 +2,20 @@
 
 Soy Tecnólogo en Dibujo Arquitectónico y de Ingeniería, con enfoque profesional en la planificación, diseño y despliegue de infraestructura de fibra óptica y redes de planta externa (OSP)
 
-## 🚀 Perfil Profesional / Professional Summary
-* **Diseño FTTH / OSP:** Experiencia sólida en Low Level Design (LLD), enrutamiento óptico y desarrollo de planos de construcción (CD Sets) bajo normativas internacionales.
-* **Entornos Técnicos:** Dominio avanzado en ArcGIS Pro, AutoCAD (2D/3D), Revit y ETABS.
-* **Garantía de Calidad:** Historial comprobable con tasas del 95% de aprobación en primeras entregas de planos listos para construcción.
+### Proyecto 1: Ingeniería de Detalle y Ciclo de Diseño FTTH / OSP
+Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabilidad y maquetación de permisos hasta la entrega de planos finales listos para construcción.
 
----
+#### 🛰️ Fase 1: Preliminary Design (PD) & Permit Set (Mapeo de Utilidades Existentes)
+* **Descripción:** Planificación estratégica de rutas de distribución y análisis de viabilidad geométrica mediante el cruce de información con infraestructura de servicios públicos existentes (Water Mains, Gas Lines, Buried Electric Conduit). Diseño enfocado en la prevención de interferencias en vía pública y asignación de Bore Pits de precisión.
+* **Imagen:** *<img width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/d2f03ab5-d097-40c1-96fb-6803c90cf354" />
+*
 
-### Proyecto 1: Low Level Design (LLD) - Construction Drawings (CD Set)
-Diseño y estructuración de planos listos para construcción en arquitecturas de fibra óptica subterránea y aérea.
+#### 🏗️ Fase 2: Final Construction Drawings (CD Set / Planos de Construcción)
+* **Descripción:** Documentación técnica definitiva de la arquitectura de red lista para construcción. Integra la configuración final del enrutamiento óptico, diagramas de topología, especificaciones de holguras (Slack) y la distribución exacta de splitters (1x8).
+* **Imagen:** *<img width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/95825063-ba1a-4386-8410-323d3fe7e673" />*
 
-<img width="4382" height="3234" alt="Schaumburg 1 05-B CD 041426_pages-to-jpg-0027" src="https://github.com/user-attachments/assets/181bf53d-600a-43bc-9b67-abab77139dc2" />
-
-
-* **Herramientas:** ArcGIS Pro.
-* **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies de LLD mensuales con un estricto cumplimiento normativo de infraestructuras en vías públicas.
+* **Herramientas:** AutoCAD / GIS Environments.
+* **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies mensuales con un estricto cumplimiento de normativas internacionales de infraestructura OSP.
 
 ---
 
