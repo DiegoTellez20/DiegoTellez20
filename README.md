@@ -7,11 +7,11 @@ Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabil
 
 #### 🛰️ Fase 1: Preliminary Design (PD) & Permit Set (Mapeo de Utilidades Existentes)
 * **Descripción:** Planificación estratégica de rutas de distribución y análisis de viabilidad geométrica mediante el cruce de información con infraestructura de servicios públicos existentes (Water Mains, Gas Lines, Buried Electric Conduit). Diseño enfocado en la prevención de interferencias en vía pública y asignación de Bore Pits de precisión.
-* **Imagen:** *<width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/d2f03ab5-d097-40c1-96fb-6803c90cf354" />*
+* **Imagen:** *<img width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/d2f03ab5-d097-40c1-96fb-6803c90cf354" />*
 
 #### 🏗️ Fase 2: Final Construction Drawings (CD Set / Planos de Construcción)
 * **Descripción:** Documentación técnica definitiva de la arquitectura de red lista para construcción. Integra la configuración final del enrutamiento óptico, diagramas de topología, especificaciones de holguras (Slack) y la distribución exacta de splitters (1x8).
-* **Imagen:** *<width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/95825063-ba1a-4386-8410-323d3fe7e673" />*
+* **Imagen:** *<img width="2818" height="2086" alt="ej 2_page-0001" src="https://github.com/user-attachments/assets/95825063-ba1a-4386-8410-323d3fe7e673" />*
 
 * **Herramientas:** ArcGIS Pro.
 * **Métricas Clave:** Simulación y enrutamiento cubriendo entre 60,000 y 80,000 pies mensuales con un estricto cumplimiento de normativas internacionales de infraestructura OSP.
