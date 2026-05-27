@@ -19,6 +19,6 @@ Desarrollo integral de redes de fibra óptica cubriendo desde la etapa de viabil
 ---
 
 ## 📬 Contacto / Connect with me
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/diegotellezftth/)
+* **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/diegotellezftth/)
 * **Email:** diego.tellez7@gmail.com
 * **Ubicación:** Ibagué, Tolima, Colombia (Disponible para trabajo remoto / mercado internacional)
